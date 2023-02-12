@@ -1,0 +1,11 @@
+.menuAnchor {
+  font-size: 1.4rem;
+  text-decoration: none;
+  color: #222;
+  background-color: aquamarine;
+}
+
+.menuAnchor:hover {
+  color: aquamarine;
+  background-color: #222;
+}
